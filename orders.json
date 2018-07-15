@@ -1,0 +1,11 @@
+{"amount":"текст","orderid":"текст","currency":"USD","comment":"оплата заказа"}
+{"amount":100,"orderid":1,"currency":"USD","comment":"оплата заказа"}
+{"amount":200,"orderid":"текст","currency":"USD","comment":"оплата заказа"}
+{"amount":300,"currency":"USD","comment":"оплата заказа"}
+{"amount":400,"orderid":4,"currency":"USD","comment":10}
+{"amount":500,"orderid":5,"comment":"оплата заказа"}
+{"amounts":600,"orderid":6,"currency":"USD","comment":"оплата заказа"}
+{"orderid":7,"currency":"USD","comment":"оплата заказа"}
+{"amount":800,"orderid":8,"currency":"USD",}
+{"amount":900,"orderid":9,"currency":10,"comment":10}
+{"amount":100,"orderid":1,"currency":"USD","comment":"оплата заказа"}
